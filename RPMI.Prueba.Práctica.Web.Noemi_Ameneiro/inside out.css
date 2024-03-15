@@ -1,0 +1,20 @@
+.portada{
+    width: 200px;
+}
+body{
+    background-image: url(https://www.xtrafondos.com/wallpapers/degradado-difuminado-azul-7935.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.imagen-c{
+    width: 100px ;
+}
+h1{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color: white;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    color: white;
+}
